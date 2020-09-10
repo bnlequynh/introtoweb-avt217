@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Project 1</title>
+  </head>
+  <body>
+    <p>Can be seen from the <a href="page5.html">outside</a> </p>
+  </body>
+</html>
