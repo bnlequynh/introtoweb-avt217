@@ -12,7 +12,7 @@ html, body{
   align-items: center;
 }
 .container {
-  width: 90%;
+  width: 70%;
   height: 400px;
   max-width: 960px;
   margin: 0 auto;
@@ -23,7 +23,7 @@ html, body{
   align-items: center;
 }
 h1 {
-  font-size: 50px;
+  font-size: 80px;
   font-weight: bold;
   background: linear-gradient(to right, #7927b2, #fb3182);
   -webkit-background-clip: text;
