@@ -1,7 +1,9 @@
+body {
+  background-color: black;
+}
 p {
 font-size: 15px;
 family-font: white;
-background-color: black;
 }
 
 a:link {
@@ -10,4 +12,12 @@ a:link {
 
 a:hover {
   color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:active {
+  color: black;
 }
