@@ -4,7 +4,7 @@ html {
 
 p {
 font-size: 20px;
-family-font: white;
+color: white;
 }
 
 a:link {
@@ -13,4 +13,12 @@ a:link {
 
 a:hover {
   color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:active {
+  color: black;
 }
