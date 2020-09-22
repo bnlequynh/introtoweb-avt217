@@ -9,6 +9,7 @@ h1 {
   font-size: 60px;
   color: white;
   font-weight: bold;
+  max-width: 350px;
   text-transform: uppercase;
 }
 
