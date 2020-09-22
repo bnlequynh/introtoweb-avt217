@@ -8,6 +8,7 @@ html, body{
 
 h1 {
   color: white;
+  font-family: souvenir;
   font-size: 60px;
   font-weight: bold;
   max-width: 350px;
@@ -16,5 +17,6 @@ h1 {
 }
 
 ul {
+  font-family: futura;
   font-size: 15px;
 }
