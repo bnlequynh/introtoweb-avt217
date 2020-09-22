@@ -1,6 +1,7 @@
 html, body{
   height: 100vh;
   background: linear-gradient(to bottom, #7927b2, #fb3182);
+  display: flex;
   justify-content: center;
   align-items: center;
 }
