@@ -13,10 +13,10 @@ h1 {
   font-weight: bold;
   max-width: 350px;
   text-transform: uppercase;
-  line-height: .77;
+  line-height: 1.5;
 }
 
 ul {
-  font-family: sans-serif;
-  font-size: 15px;
+  font-family: serif;
+  font-size: 20px;
 }
