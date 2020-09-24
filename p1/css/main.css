@@ -17,7 +17,7 @@ p {
   color: white;
   border-style: solid;
   border-color: white;
-  border-width: thick;
+  border-width: thin;
   padding: 40px;
   box-shadow: 0px 0px 40px 20px;
 }
