@@ -2,9 +2,15 @@ html {
   background-color: black;
 }
 
-p {
-font-size: 20px;
-color: white;
+body {
+  font-size: 20px;
+  color: white;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  align-items: center;
+  justify-content: center;
 }
 
 a:link {
