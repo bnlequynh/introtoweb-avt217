@@ -14,10 +14,29 @@ body {
 }
 
 p {
-  color: white;
   border-style: solid;
   border-color: white;
   border-width: medium;
   padding: 40px;
   box-shadow: 0px 0px 40px 20px;
+}
+
+/* unvisited link */
+a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: white;
+}
+
+/* selected link */
+a:active {
+  color: white;
 }
