@@ -12,6 +12,9 @@ body {
   position: fixed;
   align-items: center;
   justify-content: center;
+  border: solid;
+  border-color: white;
+  border-width: thick;
 }
 
 a:link {
@@ -24,8 +27,4 @@ a:hover {
 
 a:visited {
   color: black;
-}
-
-a:active {
-  color: white;
 }
