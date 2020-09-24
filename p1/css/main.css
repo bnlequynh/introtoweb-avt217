@@ -12,6 +12,9 @@ body {
   position: fixed;
   align-items: center;
   justify-content: center;
+}
+
+p {
   border: solid;
   border-color: white;
   border-width: thick;
