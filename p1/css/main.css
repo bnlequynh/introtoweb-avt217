@@ -17,13 +17,13 @@ p {
   color: white;
   border-style: solid;
   border-color: white;
-  border-width: thin;
+  border-width: medium;
   padding: 40px;
   box-shadow: 0px 0px 40px 20px;
 }
 
 a:hover {
-  color: white;
+  color: black;
 }
 
 a:visited {
