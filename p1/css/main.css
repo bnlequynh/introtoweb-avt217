@@ -22,14 +22,10 @@ p {
   box-shadow: 0px 0px 20px 10px;
 }
 
-a href:link {
-  color: black;
-}
-
-a href:hover {
+a:hover {
   color: white;
 }
 
-a href:visited {
+a:visited {
   color: black;
 }
