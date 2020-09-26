@@ -21,12 +21,11 @@ h2 {
 
 .firstletter {
   color: yellow;
-  width: 35%;
+  font-size: 35px;
   display: inline;
 }
 
 .firstparagraph {
-  width: 65%;
   display: inline;
 }
 
