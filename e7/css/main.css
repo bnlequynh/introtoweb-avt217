@@ -1,5 +1,5 @@
 body {
-  margin: 15%;
+  margin: 0 15% 0 15%;
 }
 h1,h2,h3 {
   color: ;
@@ -15,8 +15,12 @@ ul {
   line-height: 1.2;
 }
 
+p {
+  font-size: 15px;
+}
+
 .bottompadding {
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 hr {
