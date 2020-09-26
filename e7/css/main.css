@@ -1,5 +1,5 @@
 body {
-  margin: 20%;
+  margin: 15%;
 }
 h1,h2,h3 {
   color: ;
@@ -8,13 +8,17 @@ h1,h2,h3 {
 }
 
 h2 {
-  text-transform: uppercase;
 }
 
 ul {
   font-family: Source Sans;
   line-height: 1.2;
 }
+
+.bottompadding {
+  padding-bottom: 20px;
+}
+
 hr {
   color: pink;
   weight: 5px;
