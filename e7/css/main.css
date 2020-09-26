@@ -4,18 +4,21 @@ html {
 
 body {
   background-color: white;
-  margin: 10% 20% 0 20%;
+  margin: 5% 20% 0 20%;
   padding: 100px;
 }
 
-h1,h2,h3 {
-  color: ;
+h1,h2,h4 {
   font-family: Playfair Display;
   font-weight: bold;
 }
 
 h1 {
   font-size: 20px;
+  text-align: center;
+}
+
+h4 {
   text-align: center;
 }
 
