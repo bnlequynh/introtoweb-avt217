@@ -20,7 +20,10 @@ h2 {
 }
 
 hr {
-  border: 3px solid #FCA311;
+  color: #FCA311;
+  height: 3px;
+  width: 30px;
+  align-content: center;
 }
 
 .sectiontwo {
@@ -29,7 +32,7 @@ hr {
 
 .firstletter {
   color: #FCA311;
-  font-size: 35px;
+  font-size: 50px;
   font-weight: bold;
   display: inline;
 }
