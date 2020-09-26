@@ -21,11 +21,13 @@ h2 {
 
 .firstletter {
   color: yellow;
-  width: 35%
+  width: 35%;
+  display: inline;
 }
 
 .firstparagraph {
-  width: 65%
+  width: 65%;
+  display: inline;
 }
 
 ul {
