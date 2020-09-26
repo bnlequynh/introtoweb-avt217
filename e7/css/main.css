@@ -19,6 +19,15 @@ h1 {
 h2 {
 }
 
+.firstletter {
+  color: yellow;
+  width: 35%
+}
+
+.firstparagraph {
+  width: 65%
+}
+
 ul {
   font-family: Source Sans;
   line-height: 1.2;
