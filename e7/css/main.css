@@ -4,6 +4,8 @@
 
 .page {
   background-color: white;
+  align-content: center;
+  width: 500px;
 }
 
 body {
