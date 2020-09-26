@@ -1,3 +1,6 @@
+body {
+  margin: 20%;
+}
 h1,h2,h3 {
   color: ;
   font-family: Playfair Display;
@@ -11,4 +14,8 @@ h2 {
 ul {
   font-family: Source Sans;
   line-height: 1.2;
+}
+hr {
+  color: pink;
+  weight: 5px;
 }
