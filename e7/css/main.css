@@ -19,6 +19,10 @@ h1 {
 h2 {
 }
 
+.sectiontwo {
+  padding: 0 20px 0 20px;
+}
+
 .firstletter {
   color: yellow;
   font-size: 35px;
@@ -35,7 +39,7 @@ ul {
 }
 
 p {
-  font-size: 15px;
+  font-size: 20px;
   text-align: justify;
 }
 
