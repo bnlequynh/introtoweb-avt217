@@ -2,6 +2,9 @@ h1,h2,h3 {
   color: ;
   font-family: Playfair Display;
   font-weight: bold;
+}
+
+h2 {
   text-transform: uppercase;
 }
 
