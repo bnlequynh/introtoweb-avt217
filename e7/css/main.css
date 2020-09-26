@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  margin: 15% 15% 0 15%;
+  margin: 15% 20% 0 20%;
 }
 h1,h2,h3 {
   color: ;
@@ -22,7 +22,7 @@ h2 {
 hr {
   color: #FCA311;
   height: 3px;
-  width: 30px;
+  width: 100px;
   align-content: center;
 }
 
