@@ -1,17 +1,10 @@
-.background {
+html {
     background-color: #14213D;
-    position: relative;
-}
-
-.page {
-  background-color: black;
-  position: relative;
-  align-content: center;
-  width: 500px;
 }
 
 body {
   margin: 15% 20% 0 20%;
+  background-color: white;
 }
 
 h1,h2,h3 {
