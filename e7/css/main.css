@@ -5,6 +5,7 @@
 
 .page {
   background-color: white;
+  position: relative;
   align-content: center;
   width: 500px;
 }
