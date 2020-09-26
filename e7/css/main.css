@@ -1,13 +1,11 @@
-h1 {
+h1,h2,h3 {
   color: ;
-  font-family: ;
-  font-size: 60px;
+  font-family: Playfair Display;
   font-weight: bold;
   text-transform: uppercase;
 }
 
 ul {
-  font-family: ;
-  font-size: 15px;
+  font-family: Source Sans;
   line-height: 1.2;
 }
