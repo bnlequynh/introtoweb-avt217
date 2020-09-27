@@ -10,7 +10,7 @@ html, body{
 }
 
 h1 {
-  color: #F3D6D6;
+  color: #bb6051;
   font-family: bello-pro;
   font-size: 100px;
   max-width: 350px;
@@ -24,10 +24,10 @@ ul {
 
 /* unvisited link */
 a:link {
-  color: #BFDDD0;
+  color: #53969f;
 }
 
 /* mouse over link */
 a:hover {
-  color: #497970;
+  color: #0e5264;
 }
