@@ -2,6 +2,8 @@ html, body{
   height: 100vh;
   background-image: url(https://i.pinimg.com/564x/92/e0/0a/92e00a94f614ea7535c5e46369520fad.jpg);
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,14 +11,14 @@ html, body{
 
 h1 {
   color: #95ABDA;
-  font-family: lato;
+  font-family: bello;
   font-size: 60px;
   font-weight: bold;
   max-width: 350px;
 }
 
 ul {
-  font-family: Merriweather;
+  font-family: lato;
   font-size: 15px;
   line-height: 1.2;
 }
