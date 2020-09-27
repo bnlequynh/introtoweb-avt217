@@ -1,6 +1,6 @@
 html, body{
   height: 100vh;
-  background: linear-gradient(#7927b2, #fb3182);
+  background-image: url(https://i.pinimg.com/564x/a6/8a/1c/a68a1c1c87c89d499978100aca758fae.jpg);
   display: flex;
   justify-content: center;
   align-items: center;
