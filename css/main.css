@@ -21,3 +21,18 @@ ul {
   font-size: 15px;
   line-height: 1.2;
 }
+
+/* unvisited link */
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: black;
+}
