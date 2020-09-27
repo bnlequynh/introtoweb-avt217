@@ -9,7 +9,7 @@ html, body{
 
 h1 {
   color: white;
-  font-family: Abril;
+  font-family: lato;
   font-size: 60px;
   font-weight: bold;
   max-width: 350px;
@@ -17,7 +17,7 @@ h1 {
 }
 
 ul {
-  font-family: Lato;
+  font-family: Merriweather;
   font-size: 15px;
   line-height: 1.2;
 }
