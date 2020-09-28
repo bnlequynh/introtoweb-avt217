@@ -21,6 +21,11 @@ ul {
   line-height: 1.2;
 }
 
+/* visited link */
+a:visited {
+  color: #53969f;
+}
+
 /* unvisited link */
 a:link {
   color: #53969f;
@@ -30,3 +35,7 @@ a:link {
 a:hover {
   color: #0e5264;
 }
+
+/* selected link */
+a:active {
+  color: #53969f;
