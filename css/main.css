@@ -19,6 +19,7 @@ ul {
   font-family: open-sans;
   font-size: 18px;
   line-height: 1.2;
+  text-decoration: none;
 }
 
 /* visited link */
