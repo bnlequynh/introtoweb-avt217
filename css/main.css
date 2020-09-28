@@ -1,6 +1,7 @@
 body{
   height: 100vh;
   background-image: url(https://www.muralswallpaper.com/app/uploads/multi-coloured-abstract-watercolour-brush-strokes-wallpaper-mural-Plain-820x532.jpg);
+  background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   display: flex;
@@ -12,7 +13,6 @@ h1 {
   color: #bb6051;
   font-family: yellowtail;
   font-size: 125px;
-  max-width: 350px;
 }
 
 ul {
