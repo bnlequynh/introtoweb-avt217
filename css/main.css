@@ -11,13 +11,13 @@ html, body{
 
 h1 {
   color: #bb6051;
-  font-family: bello-pro;
+  font-family: yellowtail;
   font-size: 100px;
   max-width: 350px;
 }
 
 ul {
-  font-family: lato;
+  font-family: open sans;
   font-size: 15px;
   line-height: 1.2;
 }
