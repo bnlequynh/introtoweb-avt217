@@ -9,7 +9,7 @@ main {
   height: 100%;
 }
 .shape1 {
-  background-color: red;
+  background-color: #B8D8BA;
   width: 200px;
   height: 200px;
   margin: -15px;
@@ -18,7 +18,7 @@ main {
   boarder-radius: 50%;
 }
 .shape2 {
-  background-color: blue;
+  background-color: #D9DBBC;
   width: 100px;
   height: 200px;
   margin: -15px -7.5px;
@@ -27,7 +27,7 @@ main {
   transform: rotate(20deg);
 }
 .shape3 {
-  background-color: yellow;
+  background-color: #FCDDBC;
   width: 50px;
   height: 200px;
   margin: -15px -3.75px;
