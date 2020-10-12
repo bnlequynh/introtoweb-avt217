@@ -25,7 +25,7 @@ main {
   float: left;
   opacity: .5;
   transform: rotate(40deg);
-  boarder-radius: 60%;
+  boarder-radius: 10%;
 }
 .shape3 {
   background-color: #BCBD8B;
