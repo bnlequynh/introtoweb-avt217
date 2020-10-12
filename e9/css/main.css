@@ -5,7 +5,7 @@ body {
   margin: 0;
 }
 main {
-  width: 95vw;
+  width: 100vw;
 }
 .shape1 {
   background-color: #B8D8BA;
@@ -27,7 +27,7 @@ main {
 }
 .shape3 {
   background-color: #FCDDBC;
-  width: 30px;
+  width: 130px;
   height: 60px;
   margin: -15px -5px;
   float: left;
