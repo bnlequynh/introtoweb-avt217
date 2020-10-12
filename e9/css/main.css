@@ -19,7 +19,7 @@ main {
 .shape2 {
   background-color: blue;
   width: 100px;
-  height 200px;
+  height: 200px;
   margin: -15px -7.5px;
   float: left;
   opacity: .5;
