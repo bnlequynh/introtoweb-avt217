@@ -11,7 +11,7 @@ main {
   background-color: #B8D8BA;
   width: 225px;
   height: 150px;
-  margin: -5px;
+  margin: -15px;
   float: left;
   opacity: .5;
   boarder-radius: 80%;
@@ -20,7 +20,7 @@ main {
   background-color: #D9DBBC;
   width: 160px;
   height: 220px;
-  margin: -20px -8px;
+  margin: -15px -8px;
   float: left;
   opacity: .5;
   transform: rotate(40deg);
@@ -29,7 +29,7 @@ main {
   background-color: #FCDDBC;
   width: 30px;
   height: 60px;
-  margin: -10px -5px;
+  margin: -15px -5px;
   float: left;
   opacity: .5;
 }
