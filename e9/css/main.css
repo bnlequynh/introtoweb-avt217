@@ -5,7 +5,8 @@ body {
   margin: 0;
 }
 main {
-  width: 120vw;
+  width: 100vw;
+  height: 100vw;
 }
 .shape1 {
   background-color: red;
