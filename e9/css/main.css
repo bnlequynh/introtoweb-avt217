@@ -9,12 +9,12 @@ main {
 }
 .shape1 {
   background-color: #373D20;
-  width: 225px;
+  width: 190px;
   height: 150px;
   margin: -15px;
   float: left;
   opacity: .5;
-  boarder-radius: 80%;
+  boarder-radius: 30%;
 }
 .shape2 {
   background-color: #717744;
