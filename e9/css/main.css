@@ -33,5 +33,5 @@ main {
   height: 60px;
   margin: -15px -5px;
   float: left;
-  opacity: .5;
+  boarder-radius: 10%;
 }
