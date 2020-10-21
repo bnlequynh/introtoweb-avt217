@@ -13,6 +13,7 @@ body{
 header {
   color: #bb6051;
   font-family: yellowtail;
+  font-size: 125px;
   width: 75vw;
   margin: 25px auto;
 }
