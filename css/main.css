@@ -15,11 +15,20 @@ h1 {
   font-family: yellowtail;
   font-size: 125px;
   text-align: center;
+  float: right;
+  padding: 0px 80px;
+}
+
+h2 {
+  color: #bb6051;
+  font-family: yellowtail;
+  font-size: 40px;
+  padding: 0px 80px;
 }
 
 .col {
   width: 50%;
-  margin: 50% auto;
+  margin: 50px auto;
   float: left;
 }
 
@@ -27,7 +36,9 @@ ul {
   font-family: open-sans;
   font-size: 18px;
   line-height: 1.2;
+  padding: 0px 80px;
   list-style-type: none;
+  text-decoration: none;
 }
 
 /* visited link */
