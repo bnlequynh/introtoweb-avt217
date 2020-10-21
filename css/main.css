@@ -16,14 +16,14 @@ h1 {
   font-size: 125px;
   text-align: center;
   float: right;
-  padding: 0px 80px;
+  padding: 0px 15%;
 }
 
 h2 {
   color: #bb6051;
   font-family: yellowtail;
   font-size: 40px;
-  padding: 0px 80px;
+  padding: 0px 15%;
 }
 
 .col {
@@ -65,14 +65,14 @@ a:active {
     h1 {
       text-align: center;
       float: none;
-      padding: 0px 0px;
+      padding: 0px 15%;
     }
     .col {
       width: 100%;
       padding: 0px;
     }
     h2, ul {
-        padding: 0px 0px;
+        padding: 0px 15%;
         text-align: center;
     }
   }
