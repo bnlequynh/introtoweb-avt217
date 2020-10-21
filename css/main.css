@@ -5,7 +5,7 @@
 html {
   height: 100vh;
   background-image: url(https://www.muralswallpaper.com/app/uploads/multi-coloured-abstract-watercolour-brush-strokes-wallpaper-mural-Plain-820x532.jpg);
-  background-repeat: no-repeat;
+  background-repeat:no-repeat;
   background-attachment: fixed;
   background-size: cover;
 }
@@ -19,7 +19,7 @@ h1 {
 
 .col {
   width: 50%;
-  margin: 25px auto;
+  margin: 25px 50%;
   float: left;
 }
 
