@@ -19,7 +19,7 @@ h1 {
 
 .col {
   width: 50%;
-  margin: 25px 50%;
+  margin: 50% auto;
   float: left;
 }
 
