@@ -59,3 +59,20 @@ a:hover {
 /* selected link */
 a:active {
   color: #53969f;
+}
+
+  @media screen and (max-width: 900px) {
+    h1 {
+      text-align: center;
+      float: none;
+      padding: 0px 0px;
+    }
+    .col {
+      width: 100%;
+      padding: 0px;
+    }
+    h2, ul {
+        padding: 0px 0px;
+        text-align: center;
+    }
+  }
