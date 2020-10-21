@@ -10,10 +10,20 @@ body{
   text-align: center;
 }
 
-h1 {
+header {
   color: #bb6051;
   font-family: yellowtail;
   font-size: 125px;
+  width: 75vw;
+  margin: 25px auto;
+}
+main {
+  width: 75vw;
+  margin: 25px auto;
+}
+.col {
+  width: 75vw;
+  margin: 25px auto;
 }
 
 ul {
