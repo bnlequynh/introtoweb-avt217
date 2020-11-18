@@ -1,4 +1,87 @@
-.korea1 {
-  margin: 0;
-  width: 100vw;
+html {
+  overflow-x:hidden;
 }
+body,h1,h2,h3,h4,h5,h6 {
+  font-family: "Lato", sans-serif;
+  line-height: 1.8;
+}
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  color: #111;
+}
+header {
+  display: flow-root;
+  padding: 10px 50px;
+  position: relative;
+}
+.title {
+  float: left;
+}
+.title p {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+nav {
+  float: right;
+  margin-top: 16px;
+}
+nav a, nav a:link, nav a:visited {
+  text-decoration: none;
+  color: #111;
+}
+nav a, nav a:hover, nav a:active {
+  color: white;
+}
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+li {
+  float: left;
+  margin-left: 25px;
+}
+.hero {
+  background: url(../images/korea1.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 250px 400px;
+  color: white;
+}
+.hero h1 {
+  text-align: center;
+  font-size: 6rem;
+  margin-bottom: 25px;
+}
+
+.margin {
+  margin: 100px 300px;
+}
+
+.col1 {
+  width: 33.33%;
+  margin: 100px auto;
+  float: left;
+}
+.col2 {
+  width: 66.33%;
+  margin: 100px auto;
+  float: left;
+}
+
+footer {
+  padding: 50px 100px;
+  background-color: orange;
+  color: whitesmoke;
+  text-align: center;
+}
+
+@media only screen and (max-width: 1000px) {
+  .hero {
+    padding: 50px 50px;
+  }
+  .margin {
+    margin: 100px 100px;
+  }
