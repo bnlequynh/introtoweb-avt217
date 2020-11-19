@@ -30,10 +30,10 @@ nav {
 }
 nav a, nav a:link, nav a:visited {
   text-decoration: none;
-  color: #111;
+  color: black;
 }
 nav a, nav a:hover, nav a:active {
-  color: white;
+  color: black;
 }
 ul {
   padding: 0;
@@ -49,7 +49,15 @@ li {
   padding: 250px 400px;
   color: white;
 }
-.hero h1 {
+
+.hero2 {
+  background: url(../images/korea10.jpg) no-repeat center center;
+  background-size: cover;
+  padding: 250px 400px;
+  color: white;
+}
+
+h1 {
   text-align: center;
   font-size: 6rem;
   margin-bottom: 25px;
@@ -85,14 +93,14 @@ li {
 }
 .highlights {
   height: 300px;
-  background-color: blue;
+  background-color: #90a3a7;
   color: white;
   text-align: center;
-  padding-top: 100px;
+  padding-top: 50px;
 }
 .list {
   height: 350px;
-  background-color: gray;
+  background-color: #efefef;
   border-radius: 10%;
   display: inline-block;
   margin: 20px 0px;
@@ -106,7 +114,6 @@ li {
 .text2 {
   width: 550px;
   height: 300px;
-  color: white;
   float: left;
   padding: 20px;
   text-align: justify;
@@ -114,15 +121,7 @@ li {
 
 footer {
   padding: 50px 100px;
-  background-color: orange;
+  background-color: #395159;
   color: whitesmoke;
   text-align: center;
 }
-
-@media only screen and (max-width: 1000px) {
-  .hero {
-    padding: 50px 50px;
-  }
-  .margin {
-    margin: 100px 100px;
-  }
