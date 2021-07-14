@@ -109,6 +109,9 @@ h1 {
   font-size: 20px;
   margin: 200px 0px;
 }
+.computer{
+  display: block;
+}
 .mobile {
   display: none;
 }
@@ -208,6 +211,9 @@ nav {
   }
 .computer {
     display: none;
+  }
+.mobile {
+    display: block;
   }
 .mg {
     margin-right: 0px;
